@@ -1,2 +1,2 @@
 # JavaScript 30
-30 JavaScript projects within 30 days
+30 JavaScript projects from Wes Bos videos in 30 days
